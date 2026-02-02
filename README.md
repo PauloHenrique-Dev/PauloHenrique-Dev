@@ -8,7 +8,7 @@
 <div align="center" >
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=arianmakiabadi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://nirzak-streak-stats.vercel.app/?user=PauloHenrique-Dev&theme=dark&hide_border=true&card_width=400&card_height=150&theme=radical&hide_current_streak=true" />
   
 
