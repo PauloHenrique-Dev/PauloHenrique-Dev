@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on refactoring and optimizing my previous projects.<br>👨‍💻 I’m looking to collaborate on Open-source React/Next.js projects.<br>🌱 I’m currently learning Full-stack with Next.js / server actions.<br>💬 Ask me about React architecture & design systems.<br>
+🔭 Aspiring software developer at the beginning of my journey.
+I’m constantly learning, practicing, and pushing myself to grow every day with the goal of earning my first opportunity in the tech industry.
+
+Currently studying Python and C, focusing on building a solid foundation in programming and problem-solving. In the future, I plan to expand my skills into front-end development and explore new technologies.
+
+Always curious, motivated, and committed to continuous improvement 🚀
 
 
 # 💻 Tech Stack:
