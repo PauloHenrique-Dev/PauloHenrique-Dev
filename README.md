@@ -11,6 +11,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloHenrique-Dev&theme=tokyonight" alt="GitHub streak" />
   </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/r-riosp/r-riosp/output/snake.svg" alt="Snake animation" />
+
+  </a>
 </p>
 
   
