@@ -7,7 +7,11 @@
 # 📊 GitHub Stats:
 <div align="center" >
 
-<img src="https://github-readme-stats-hazel-six-78.vercel.app/api/top-langs/?username=PauloHenrique-Dev&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave" alt="Top Languages">
+  </a>
+</p>
 <img src="https://nirzak-streak-stats.vercel.app/?user=PauloHenrique-Dev&theme=dark&hide_border=true&card_width=400&card_height=150&theme=radical&hide_current_streak=true" />
   
 
