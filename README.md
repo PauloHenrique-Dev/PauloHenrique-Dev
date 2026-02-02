@@ -3,13 +3,13 @@
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 # 📊 GitHub Stats:
 <div align="center" >
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=arianmakiabadi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-<img src="https://github-readme-stats-hazel-six-78.vercel.app/api/top-langs/?username=arianmakiabadi&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=arianmakiabadi&theme=dark&hide_border=true&card_width=400&card_height=150&theme=radical&hide_current_streak=true" />
+<img src="https://github-readme-stats-hazel-six-78.vercel.app/api/top-langs/?username=PauloHenrique-Dev&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=PauloHenrique-Dev&theme=dark&hide_border=true&card_width=400&card_height=150&theme=radical&hide_current_streak=true" />
   
 
 </div>
