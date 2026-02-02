@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=PauloHenrique-Dev&layout=compact&theme=synthwave" alt="Top Languages">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloHenrique-Dev&theme=tokyonight" alt="GitHub streak" />
   </a>
 </p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=PauloHenrique-Dev&theme=dark&hide_border=true&card_width=400&card_height=150&theme=radical&hide_current_streak=true" />
+
   
 
 
