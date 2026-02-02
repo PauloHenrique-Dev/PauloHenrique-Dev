@@ -28,7 +28,7 @@ Always curious, motivated, and committed to continuous improvement 🚀
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arian-makiabadi-720455335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arian.maki@yahoo.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/arian-makiabadi-720455335](https://www.linkedin.com/in/paulo-henrique-fernandes-souza/))
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
